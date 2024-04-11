@@ -4,48 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9394a331ae7b6e24",
+        "id": "7183b93c81b5be6c",
         "type": "tabs",
         "children": [
           {
-            "id": "4077b9daacc1a60e",
+            "id": "e56f2bc230e1040c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technion/NUM1/NUM1_E2021WA.md",
-                "mode": "preview",
-                "source": false
-              }
-            },
-            "group": "06604e38ef18bc06"
-          }
-        ]
-      },
-      {
-        "id": "d010c5e020eb5a19",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "96fd3ef745069d49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technion/NUM1/NUM1_E2021WA.md",
-                "mode": "source",
-                "source": true
-              }
-            },
-            "group": "06604e38ef18bc06"
-          },
-          {
-            "id": "3a239f952e35d59f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Technion/NUM1/NUM1_009 אינטגרציה נומרית.md",
+                "file": "Technion/NUM1/NUM1_012 אופטימיזציה.md",
                 "mode": "source",
                 "source": false
               }
@@ -117,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technion/NUM1/NUM1_E2021WA.md",
+                "file": "Technion/NUM1/NUM1_012 אופטימיזציה.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technion/NUM1/NUM1_E2021WA.md",
+                "file": "Technion/NUM1/NUM1_012 אופטימיזציה.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technion/NUM1/NUM1_E2021WA.md"
+                "file": "Technion/NUM1/NUM1_012 אופטימיזציה.md"
               }
             }
           }
@@ -171,19 +139,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "96fd3ef745069d49",
+  "active": "e56f2bc230e1040c",
   "lastOpenFiles": [
     "Technion/NUM1/NUM1_009 אינטגרציה נומרית.md",
     "Technion/NUM1/NUM1_E2021WA.md",
