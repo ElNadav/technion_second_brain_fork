@@ -4,40 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "564208c633930a29",
+        "id": "f7f99dd0c97f52c0",
         "type": "tabs",
         "children": [
           {
-            "id": "084e76f140f1755a",
+            "id": "9a85b9f7e6250877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technion/PDE1/PDE1_004 משוואת הגלים.md",
+                "file": "Technion/PHY2/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
           },
           {
-            "id": "10e491a86481c181",
+            "id": "7efd7dd50b66791b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Technion/PDE1/PDE1_007 משוואת לפלס.md",
+                "file": "Technion/DYN1/DYN1_HW004 תרגיל בית 4.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "8086337d5a124fb2",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Technion/PDE1/PDE_E2022WB/PDE1_E2022WB 2022 חורף מועד ב 2024-05-09 14.55.19.excalidraw.md"
               }
             }
           }
@@ -92,7 +84,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 298.5,
+    "collapsed": true
   },
   "right": {
     "id": "9aafb922f99122c6",
@@ -108,8 +101,8 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Technion/PDE1/PDE1_007 משוואת לפלס.md",
-                "collapseAll": false,
+                "file": "Technion/LSY1/LSY1_001 Introduction.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -125,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Technion/PDE1/PDE1_007 משוואת לפלס.md",
+                "file": "Technion/DYN1/DYN1_HW004 תרגיל בית 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,12 +136,12 @@
             }
           },
           {
-            "id": "237b8bf4c39af771",
+            "id": "58116249b3d51a56",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Technion/PDE1/PDE1_007 משוואת לפלס.md"
+                "file": "Technion/DYN1/DYN1_HW004 תרגיל בית 4.md"
               }
             }
           }
@@ -162,64 +155,69 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "canvas:Create new canvas": false,
       "workspaces:Manage workspace layouts": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "latex-ocr:LatexOCR": false
     }
   },
-  "active": "10e491a86481c181",
+  "active": "7efd7dd50b66791b",
   "lastOpenFiles": [
-    "Technion/PDE1/PDE1_E2022WB 2022 חורף מועד ב.md",
-    "Technion/PDE1/PDE_E2022WB",
-    "Technion/PDE1/PDE_E2022WB/PDE1_E2022WB 2022 חורף מועד ב 2024-05-09 14.55.19.excalidraw.md",
-    "Technion/PDE1/PDE1_004 משוואת הגלים.md",
-    "Technion/PDE1/PDE1_006 שיטת הפרדת משתנים.md",
-    "Technion/PDE1/PDE_E2022WB/PDE1_E2022WB 2022 חורף מועד ב 2024-05-09 14.55.19.excalidraw.svg",
-    "Technion/PDE1/PDE1_007 משוואת לפלס.md",
-    "Technion/PDE1/PDE1_005 בעיית שטורם ליוביל.md",
-    "Technion/PDE1/PDE1_003 משוואות לינאריות מסדר שני.md",
-    "Technion/DEQ1/DEQ1_002 גורם אינטגרציה, משוואה פרידה.md",
-    "Technion/PDE1/PDE1_002 משוואות קוואזילינאריות.md",
-    "Technion/PDE1/PDE1_000 104228 מדח מ.md",
-    "Technion/DEQ1/DEQ1_000 104131 מדר ח.md",
-    "Technion/THE1/THE1_000 034035 תרמודינמיקה 1.md",
-    "Technion/SLD2/SLD2_000 034053 מכניקת מוצקים 2מ.md",
-    "פנגייה - רשימת סיכומים.md",
-    "Technion/THE1/THE1_HW009 תרגיל בית 9.md",
-    "Technion/NUM1/NUM1_000 034056 מבוא לחישוב מדעי והנדסי.md",
-    "Technion/THE1/THE1_001 הקדמה ומושגי יסוד.md",
-    "Technion/PHY2",
-    "Technion/FLD1/FLD1_000 034055 תורת הזרימה 1מ.md",
+    "Technion/DYN1/DYN1_003 קינמטיקה של גוף קשיח.md",
+    "Technion/DYN1/DYN1_004 קינמטיקה של מערכת גופים קשיחים.md",
+    "Technion/PHY2/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים.md",
+    "Technion/PHY2/PHY2_004 מעגלים חשמליים.md",
     "Technion/PHY2/PHY2_000 114052 פיזיקה 2.md",
-    "Technion/LSY1/LSY1_000 034032 מערכות לינאריות מ.md",
-    "Technion/LSY1",
-    "Technion/FLD1",
-    "Technion/DYN1/DYN1_000 034010 דינמיקה.md",
-    "Technion/DYN1",
-    "Technion/SLD2/SLD2_E2020WA 2020 חורף מועד א.md",
-    "Technion/SLD2/SLD2_E2019WA 2019 חורף מועד א.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.md",
-    "Excalidraw/Scripts/Downloaded/Reverse arrows.md",
-    "Excalidraw/Scripts/Downloaded/Boolean Operations.svg",
-    "Technion/SLD1/SLD1_001/Pasted image 20240508212232.png",
-    "Technion/SLD1/SLD1_001/SLD1_001 וקטורים, כוחות ומומנטים, שקול 2023-03-29 09.28.04.excalidraw.svg",
-    "Technion/SLD1/SLD1_001/Pasted image 20240508212449.png",
-    "Technion/SLD1/SLD1_001 הקדמה ומושגי יסוד 2024-05-08 21.19.39.excalidraw.svg",
-    "Technion/SLD1/SLD1_001/SLD1_001 הקדמה ומושגי יסוד 2024-05-08 21.00.49.excalidraw.svg",
-    "logo.png",
-    "Technion/pandoc-test.pyg",
-    "Technion/pandoc-test.aex",
-    "Technion/pandoc-test.synctex(busy)",
-    "Technion/pandoc-test.fdb_latexmk",
-    "Technion/pandoc-test.fls",
-    "Technion/IMT1/IMT1_005/Pasted image 20230514202911.png",
-    "Technion/svg-inkscape/THE1_HW008 תרגיל בית 8 2024-03-24 14.23.59.excalidraw_svg-raw.png"
+    "Technion/PHY2/PHY2_HW003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 22.00.45.excalidraw.md",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 22.17.32.excalidraw.md",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 22.17.32.excalidraw.svg",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-06-22 09.21.02.excalidraw.md",
+    "Technion/PHY2/PHY2_002 אלקטרוסטטיקה - שטף חשמלי, חוק גאוס ופוטנציאל חשמלי.md",
+    "Technion/PHY2/PHY2_HW003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 22.00.45.excalidraw.svg",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 21.56.11.excalidraw.md",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 21.56.11.excalidraw.svg",
+    "Technion/FLD1/FLD1_HW001 תרגיל בית 1.md",
+    "Technion/FLD1/FLD1_HW002 תרגיל בית 2.md",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 20.17.10.excalidraw.md",
+    "Technion/PHY2/PHY2_003/PHY2_003 אלקטרוסטטיקה - מוליכים, אנרגיה אלקטרוסטטית, קבלים 2024-07-07 20.17.10.excalidraw.svg",
+    "Technion/MNF1/MNF1_004 Machining Processes.md",
+    "Technion/FLD1/FLD1_006 צמיגות.md",
+    "Technion/DYN1/DYN1_005 דינמיקה של חלקיק.md",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 20.05.17.excalidraw.md",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 14.56.04.excalidraw.md",
+    "Technion/FLD1/FLD1_003 חוקי שימור אינטגרליים.md",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 20.05.17.excalidraw.svg",
+    "Technion/DYN1/DYN1_005/Screenshot_20240707_133503_Samsung Notes.jpg",
+    "Technion/DYN1/DYN1_005 דינמיקה של חלקיק 2024-07-07 14.55.56.excalidraw.md",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 14.56.04.excalidraw.svg",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 14.02.03.excalidraw.md",
+    "Technion/FLD1/FLD1_HW002/FLD1_HW002 תרגיל בית 2 2024-07-07 10.57.55.excalidraw.md",
+    "Technion/FLD1/FLD1_005 הידרוסטטיקה.md",
+    "Technion/FLD1/FLD1_HW002/FLD1_HW002 תרגיל בית 2 2024-07-07 16.31.08.excalidraw.md",
+    "Technion/FLD1/FLD1_HW002/FLD1_HW002 תרגיל בית 2 2024-07-07 16.31.08.excalidraw.svg",
+    "Technion/SLD1/SLD1_005 מהלכי כוחות ומומנטים בקורות.md",
+    "Technion/SLD1/SLD1_006 מרכז כובד ומרכז מסה.md",
+    "Technion/FLD1/FLD1_HW002/FLD1_HW002 תרגיל בית 2 2024-07-07 15.54.46.excalidraw.svg",
+    "Technion/DYN1/DYN1_005/DYN1_005 דינמיקה של חלקיק 2024-07-07 15.05.54.excalidraw.svg",
+    "Technion/FLD1/FLD1_HW002",
+    "Technion/LSY1/LSY1_005",
+    "Technion/FLD1/FLD1_006",
+    "Technion/DYN1/DYN1_005",
+    "Technion/MNF1/MNF1_002/MNF1_CA1 Casting Processes.canvas",
+    "Technion/DYN1/DYN1_HW004",
+    "Technion/PHY2/PHY2_HW005",
+    "Technion/PHY2/PHY2_HW004",
+    "Technion/MNF1/MNF1_004",
+    "Technion/FLD1/FLD1_005",
+    "Technion/DYN1/DYN1_004",
+    "Technion/LSY1/Untitled.canvas"
   ]
 }

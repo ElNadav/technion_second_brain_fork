@@ -1,24 +1,24 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "file: -.excalidraw",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": true,
   "showOrphans": false,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "file: ALG",
       "color": {
         "a": 1,
-        "rgb": 5397472
+        "rgb": 4345855
       }
     },
     {
       "query": "file: GCH",
       "color": {
         "a": 1,
-        "rgb": 14725458
+        "rgb": 10518075
       }
     },
     {
@@ -32,14 +32,14 @@
       "query": "file: BMA",
       "color": {
         "a": 1,
-        "rgb": 5407200
+        "rgb": 3327477
       }
     },
     {
       "query": "file: CAL",
       "color": {
         "a": 1,
-        "rgb": 4278442
+        "rgb": 2042019
       }
     },
     {
@@ -67,7 +67,7 @@
       "query": "file: PHY",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 13655389
       }
     },
     {
@@ -90,18 +90,46 @@
         "a": 1,
         "rgb": 8472713
       }
+    },
+    {
+      "query": "file: DYN",
+      "color": {
+        "a": 1,
+        "rgb": 4371985
+      }
+    },
+    {
+      "query": "file: FLD",
+      "color": {
+        "a": 1,
+        "rgb": 5226394
+      }
+    },
+    {
+      "query": "file: MNF",
+      "color": {
+        "a": 1,
+        "rgb": 12034059
+      }
+    },
+    {
+      "query": "file: LSY",
+      "color": {
+        "a": 1,
+        "rgb": 7105708
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -0.2,
-  "nodeSizeMultiplier": 1.26642411642412,
-  "lineSizeMultiplier": 1.347920997921,
-  "collapse-forces": true,
-  "centerStrength": 0.778586278586279,
+  "nodeSizeMultiplier": 1.27395833333333,
+  "lineSizeMultiplier": 0.3201171875,
+  "collapse-forces": false,
+  "centerStrength": 0.640625,
   "repelStrength": 20,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.3496597027216626,
-  "close": false
+  "scale": 0.11660891579457548,
+  "close": true
 }

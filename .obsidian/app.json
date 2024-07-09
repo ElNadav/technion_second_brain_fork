@@ -20,9 +20,10 @@
   "attachmentFolderPath": "./",
   "autoPairMarkdown": false,
   "userIgnoreFilters": [
-    "templates/"
+    "templates/",
+    "Excalidraw/"
   ],
-  "rightToLeft": true,
+  "rightToLeft": false,
   "newLinkFormat": "relative",
   "mobilePullAction": ""
 }
