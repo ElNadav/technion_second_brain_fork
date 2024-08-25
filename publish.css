@@ -25,8 +25,12 @@ img[alt*="invert"] {
   filter: invert(1);
 }
 
-img[alt*="bmult"] {
+img[alt*="bscreen"] {
   mix-blend-mode: screen;
+}
+
+img[alt*="bmult"] {
+  mix-blend-mode: multiply;
 }
 
 /* General */
@@ -367,6 +371,10 @@ h5,
 }
 
 /* Navigation bar */
+.nav-view-outer{
+  overflow: unset
+}
+
 .nav-view-outer .tree-item-children .tree-item-children {
   padding-right: 18px;
   padding-left: 0;
@@ -528,6 +536,11 @@ h5,
   padding-right: unset;
 }
 
+.outline-view-outer {
+  width: 100%;
+  padding: 32px 16px 0 0;
+}
+
 .outline-view-outer .tree-item-children {
   border-right: 1px solid var(--nav-item-border-color);
   border-left: 0;
@@ -545,6 +558,14 @@ h5,
 .site-footer {
   left: 18px;
   right: auto;
+}
+
+@supports selector(:dir(rtl)) {
+  :dir(rtl) .external-link {
+      background-position: center left;
+      background-image: linear-gradient(transparent, transparent), url(https://publish.obsidian.md/public/images/874d8b8e340f75575caa.svg) !important;
+      background-repeat: no-repeat;
+  }
 }
 
 /* Edit in Github */

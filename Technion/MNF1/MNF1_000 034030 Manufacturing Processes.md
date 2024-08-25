@@ -15,11 +15,32 @@ Book: [link](https://annas-archive.org/md5/abc3a08e861b5eed7bdfbec6d45f0f9f)
 Teacher: Alexander Katz
 Assistant:
 
-# Notes
+## Notes
 - [[MNF1_001 Introduction]]
 - [[MNF1_002 Metal Casting]]
 - [[MNF1_003 Bulk Deformation Processes]]
 - [[MNF1_004 Machining Processes]]
+- [[MNF1_005 Geometric Dimensioning and Tolerancing]]
+- [[MNF1_006 Joining and Fastening Processes]]
+- [[MNF1_007 Heat Treatment]]
+- [[MNF1_008 Surface Treatments, Coatings, and Cleaning]]
+- [[MNF1_009 Powder Metallurgy and Processing of Ceramics and Glasses]]
+- [[MNF1_010 Additive Manufacturing]]
 
-# Homework
+## Homework
 - [[MNF1_HW001 Homework 1]]
+- [[MNF1_HW002 Homework 2]]
+
+## Exams
+
+חומר פתוח למבחן:
+- [[MNF1_OB Everything Everywhere All at Once]]
+
+מבחנים:
+- [[MNF1_E2020SA 2020 אביב מועד א']]
+- [[MNF1_E2023SA 2023 אביב מועד א']]
+
+## Bibliography
+- Kalpakjian, S., Schmid, S.R., 2016. Manufacturing processes for engineering materials, Sixth edition. ed. Pearson Education, Boston.
+- Callister, W.D., 2007. Materials science and engineering: an introduction, 7th ed. ed. J. Wiley, New York.
+- Kalpakjian, S., Schmid, S.R., Sekar, K.S.V., 2014. Manufacturing engineering and technology, 7. ed. in SI units. ed, Always learning. Pearson Education South Asia, Singapore.

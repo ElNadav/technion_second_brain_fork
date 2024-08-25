@@ -1,4 +1,3 @@
-### 2023 חורף מועד א'
 7. **שאלות:** 
 	גלוקוז הוא ממקורות האנרגיה העיקריים בגופנו. בשריפה מלאה של $\pu{ 1g }$ של גלוקוז ($\ce{ {C}_{6}H_{12}{O}_{6} }$ משתחרר לסביבה חום בשיעור של $\pu{ 15.56kJ }$. נתון כי:
 	$$\Delta H_{f}^{\circ}(\ce{ C{O}_{2} })=\pu{ -393.5 kJ*mol^{-1}} \quad \quad \Delta H_{f}^{\circ}(\ce{ {H}_{2}O })=\pu{ -285.8kJ*mol-1 }$$
@@ -29,5 +28,4 @@
 	**פתרון**:
 	נשרטט מבני לואיס:
 	![[Technion/GCH1/GCH1_E/GCH1_E2023WA 2023-02-17 14.19.47.excalidraw.svg]]
-%%[[Technion/GCH1/GCH1_E/GCH1_E2023WA 2023-02-17 14.19.47.excalidraw|🖋 Edit in Excalidraw]], and the [[GCH1_E2023WA 2023-02-17 14.19.47.excalidraw.dark.svg|dark exported image]]%%
 	קל לראות מהמבנים האלו ש-$\ce{ SOC{l}_{2} }$ הוא היחיד שפולארי ולכן רק לו יש מומנט דיפול.

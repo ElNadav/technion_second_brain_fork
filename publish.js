@@ -10,6 +10,22 @@ document.body.prepend(fontStyle);
 
 document.getElementsByClassName('site-footer')[0].innerHTML = 'אף אחת מהזכויות שמורות ל<a href="https://github.com/NuclearGandhi">עידו פנג בנטוב</a> ©';
 document.getElementsByClassName('outline-view-outer node-insert-event')[0].firstChild.lastChild.innerHTML = "תוכן עניינים"
+document.getElementsByClassName('nav-view')[0].setAttribute('style', 'visibility: hidden');
+
+//Add to 'nav-vide-outer' div a custom div
+var customDiv = document.createElement('div');
+
+//Add html to the custom div
+customDiv.innerHTML = `
+<div style="
+    font-size: var(--font-ui-medium);
+    margin-left: 24px;
+    margin-right: auto;
+    margin-top: 24px;
+    ">מצאתם טעות בעמוד? תפתחו <a href="https://github.com/NuclearGandhi/technion_second_brain/discussions">discussion</a> (בבקשה). שימו לב, רק אם תפתחו משתמש תוכלו לפתוח discussion. די מבאס.</div>
+    `
+document.getElementsByClassName('nav-view-outer')[0].prepend(customDiv);
+
 
 // -- Auto direction
 function applyAutoDirection() {
